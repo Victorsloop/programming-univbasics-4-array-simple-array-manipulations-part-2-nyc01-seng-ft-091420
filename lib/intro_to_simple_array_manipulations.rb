@@ -13,3 +13,7 @@ end
 def using_flatten(arraya)
   arraya.flatten 
 end 
+
+def using_delete(arraya, string)
+  arraya.delete(string)
+end
