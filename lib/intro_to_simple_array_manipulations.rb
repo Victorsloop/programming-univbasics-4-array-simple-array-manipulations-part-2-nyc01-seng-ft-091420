@@ -18,3 +18,6 @@ def using_delete(arraya, string)
   arraya.delete(string)
 end 
 
+def using_delete_at(arraya, integer)
+  arraya.delete_at(integer)
+end 
