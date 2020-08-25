@@ -9,3 +9,7 @@ end
 def using_uniq(arraya)
   arraya.uniq
 end 
+
+def using_flatten(arraya)
+  arraya.flatten 
+end 
